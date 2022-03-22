@@ -1,7 +1,7 @@
-PWD /home/jamie/github/Uni/Personal/CV
+PWD /home/jamie/github/CV
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/jamie/github/Uni/Personal/CV/main.tex
+INPUT /home/jamie/github/CV/main.tex
 OUTPUT main.log
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
@@ -274,10 +274,6 @@ INPUT /usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
-INPUT /usr/share/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-INPUT /usr/share/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-INPUT /usr/share/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-INPUT /usr/share/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
 INPUT /usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
 INPUT /usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
 INPUT /usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
